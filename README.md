@@ -1,0 +1,2 @@
+# Data-Type-in-Python
+Yesterday was the first day of learning about Python in the Data Science Track program on MyEduSolve with my mentor.  Python is one of the programming language that most commonly use. I created a portfolio with my teams about many types of data in Python such as Numeric, String and Boolean. A data type is a characteristic that tells the compiler how a programmer intends to use the data.
